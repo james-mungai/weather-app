@@ -1,0 +1,37 @@
+.height{
+    min-height: 100vh
+}
+.bg1{
+    background-color: rgb(241, 238, 238)
+}
+.bg2{
+    background-color: rgb(209, 206, 207)
+}
+.underline{
+    height:2px
+}
+w{
+    width:500px
+}
+
+.height-70{
+    min-height: 70vh
+}
+.about-picture{
+    background-image: url('../images/project9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed
+}
+.filler-picture{
+    background-image: url('../images/project1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed
+}
+.progress-picture{
+    background-image: url('../images/project2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed
+}
